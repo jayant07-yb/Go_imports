@@ -1,9 +1,9 @@
-package main
+package go_imp
 
 import (
 	"fmt"
 )
 
-func main(){
+func go_imp(){
 	fmt.Println("Ok")
 }
