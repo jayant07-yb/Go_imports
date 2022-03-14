@@ -2,10 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/bwmarrin/discordgo"
 )
 
-fun main(){
-	discord, err := discordgo.New("Bot " + "authentication token")
+func main(){
 	fmt.Println("Ok")
 }
