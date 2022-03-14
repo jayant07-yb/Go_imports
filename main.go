@@ -2,7 +2,7 @@
 package main
 import (
     "fmt"
-    "github.com/mlowicki/b"
+    "github.com/jayant07-yb/Go_imports/b/b.go"
 )
 func main() {
     fmt.Println(c.B)
